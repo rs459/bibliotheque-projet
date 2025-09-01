@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/rs459/bibliotheque-projet-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rs459/bibliotheque-projet-frontend
